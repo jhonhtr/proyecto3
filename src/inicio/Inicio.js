@@ -24,34 +24,39 @@ const Inicio = () => {
             <nav>
                 <input type="checkbox" name="" id="check"/>
                 <label htmlFor="check" className="checkbtn"> {/* Cambié for a htmlFor */}
-                    <FontAwesomeIcon icon={faBars} />
-                    {/*<FontAwesomeIcon icon={faHome} />*/}
+                    <FontAwesomeIcon icon={faBars} />                    
                 </label>
-                <a href="#" className="enlace"> <img src={logo} alt="cama1" width={70} height={70} /> </a>                
+                <a href="#" className="enlace"> <img src={logo} alt="cama1" width={70} height={70} /> </a>               
+
                 <ul className="menu">                
                     <li><a href="">Inicio</a></li>
                     <li><a href="/Servicios">Servicios</a></li>
                     <li><a href="/Contacto">Contacto</a></li>  
                 </ul>
             </nav>
-             
-             {/*<nav>
-                <input type="checkbox" name="" id="check"/>
-                <label for="check" class="checkbtn">
-                    <FontAwesomeIcon icon={faHome} />
-                    {/*<FontAwesomeIcon icon="fa-solid fa-bars" />*/}
-                {/*</label>
-                <a href="#" class="enlace"> <img src={logo} alt="cama1" width={70} height={70} /> </a>                
-                <ul className="menu">                
-                    <li><a href="">Inicio</a></li>
-                    <li><a href="/Servicios">Servicios</a></li>
-                    <li><a href="/Contacto">Contacto</a></li>  
-                </ul>
-            </nav>*/}        
+            
+            
 
             <footer>
-                
+                <div>                
+                    <div className='pie'>
+                        <h2>MUNDO SOLUCIONES NET</h2><br/>
+                        <h3>Horario de atención:<br/>
+                            Lunes de Viernes: 07:00am - 06:30pm<br/>
+                            Sábados: 08:00am - 06:30am<br/>
+                            <a className='contacto' target="_blank" rel="noopener noreferrer" 
+                            href="https://wa.me/+573124191663">+57 312 419 1663</a><br/>
+                            <a className='correo' targe="_black" rel="noopener noreferrer" href="mailto:mundosolucionesnet@gmail.com">mundosolucionesnet@gmail.com</a><br/>
+                            Carrera 12 # 13-82 Centro <br/>
+                            Florencia, Caquetá - Colombia <br/><br/>
+                            Desarrollador: Jhon Tierradentro / <a className='contacto' target="_blank" rel="noopener noreferrer" href="https://wa.me/+573205119854">+573205119854</a><br/>
+                            <a className='correo' target="_blank" rel="noopener noreferrer" href="mailto:jhonhtr@gmail.com">jhonhtr@gmail.com </a><br/>                
+                            Derechos Reservados- Copyright 2024
+                        </h3>
+                    </div>
+                </div>
             </footer>
+
         </div>
     );
 };
