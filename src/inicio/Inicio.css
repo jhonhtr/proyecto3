@@ -1,3 +1,5 @@
+/*CONFIGURACIÓN DEL ENCABEZADO*/
+
 *{
   padding: 0;/*eliminando margenes*/
   margin: 0;/*eliminando margenes*/
@@ -15,7 +17,7 @@ nav{
 .enlace{
   position: absolute;
   padding: 20px 50 px;
-  margin: 5px 10px;
+  margin: 5px 10px;  
 }
 
 .logo{
@@ -119,4 +121,47 @@ section{
   #check:checked ~ ul{
       left:0;
   }
+}
+
+/*CONFIGURACION PIE DE PÁGINA*/
+h3{
+  color: #fff;
+}
+h2{
+  color: #fff;
+}
+.contacto{
+  color: orange;
+}
+.correo{
+  color: orange;
+}
+.contacto:hoover{
+  background: greenyellow;
+}
+.correo:hoover{
+  background: greenyellow;
+}
+
+.pie{
+  display: block;
+  width: 100%;
+  max-width: 500px; /* Mantener un ancho máximo */
+  margin: 10px auto;
+  background-color: black;
+  text-align: center;
+  opacity: 0.90;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+footer {
+  background-color: #222;
+  padding: 2rem;
+  color: #fff;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
 }
