@@ -48,7 +48,7 @@ li a.active, li a:hover{
 
 .checkbtn{
   font-size: 30px;
-  color: #fff;
+  color: black;
   float: right;
   line-height: 80px;/*pongo en la mitad la 3 rayitas*/
   margin-right: 40px; /*a las 3 rayitas lo separo del borde de la página*/
