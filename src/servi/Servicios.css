@@ -1,0 +1,312 @@
+.ref-text {
+  position: absolute;
+  top: 10px;  /* Ajusta la distancia desde el borde superior */
+  right: 10px; /* Ajusta la distancia desde el borde derecho */
+  background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente opcional para resaltar el texto */
+  color: white; /* Color del texto */
+  padding: 5px; /* Espacio alrededor del texto */
+  border-radius: 5px; /* Bordes redondeados del fondo */
+  font-size: 12px; /* Tamaño de la fuente */
+}
+
+.contenedcomedor{
+    display: flex;/* Activa Flexbox */  
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 10px auto;
+    margin-bottom: 50px;  
+  }
+
+  /*contenedor blanco*/
+.contcom1 {
+    display: block;/* Activa Flexbox */  
+    flex-direction: column;
+    flex-wrap: wrap; /*si los elementos no caben en un contenedor, los adicionales se mantendran en fila*/
+    align-items: center;
+    margin: 10px auto;          
+    margin-bottom: 5px;
+    width: 350px; /*ancho del div*/
+    height: 350px; /*altura del div*/
+    background-color: white; /*color de fondo del div*/
+    text-align: center;  
+    opacity: 0.90;
+    border-radius: 20px; /*curva de las esquinas del div*/
+    /*bode del div*/
+    border: 1px solid black;  
+    padding: 10px;
+    position: relative;
+  }
+  
+  /*efecto del contenedor*/
+  .contcom1:hover{
+    border: 5px solid orange; /* Cambia el borde a gris al pasar el mouse */
+  }
+  
+  /*contenedor de la imagen*/
+  .contcom2{/*para colocar el texto en el centro del div*/
+    margin: auto  auto auto auto;
+  }
+  
+  /*forma del boton información aquí*/
+  .contcom3{
+    display: flex;/* Activa Flexbox */  
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-bottom: 5px;    
+    margin-right: auto;
+    width: 215px; /*ancho del div*/
+    height: 40px; /*altura del div*/
+    background-color: greenyellow; /*color de fondo del div*/
+    text-align: center;  
+    opacity: 0.90;
+    border-radius: 20px; /*curda de las esquinas del div*/  
+  }
+  
+  .contcom3:hover {
+    background: orange;
+  }
+  
+  /*contenedor del texto del boton*/
+  .contcom4{/*para colocar el texto en el centro del div*/
+    text-decoration: none; /*le quito esa rayita de link al texto*/
+    margin: 0; /* Elimina márgenes si es necesario */
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: auto;  
+  }
+
+/*contenedor blanco*/
+.contcom5 {
+    display: block;/* Activa Flexbox */  
+    flex-direction: column;
+    flex-wrap: wrap; /*si los elementos no caben en un contenedor, los adicionales se mantendran en fila*/
+    align-items: center;
+    margin: 10px auto;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-right: auto;
+    width: 350px; /*ancho del div*/
+    height: 350px; /*altura del div*/
+    background-color: white; /*color de fondo del div*/
+    text-align: center;  
+    opacity: 0.90;
+    border-radius: 20px; /*curva de las esquinas del div*/
+    /*bode del div*/
+    border: 1px solid black;  
+    padding: 10px;
+    position: relative;
+  }
+  
+  /*efecto del contenedor*/
+  .contcom5:hover{
+    border: 5px solid orange; /* Cambia el borde a gris al pasar el mouse */
+  }
+  
+  /*contenedor de la imagen*/
+  .contcom6{/*para colocar el texto en el centro del div*/
+    margin: auto  auto auto auto;
+  }
+
+  /*contenedor blanco*/
+.contcom7 {
+    display: block;/* Activa Flexbox */  
+    flex-direction: column;
+    flex-wrap: wrap; /*si los elementos no caben en un contenedor, los adicionales se mantendran en fila*/
+    align-items: center;
+    margin: 10px auto;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-right: auto;
+    width: 350px; /*ancho del div*/
+    height: 350px; /*altura del div*/
+    background-color: white; /*color de fondo del div*/
+    text-align: center;  
+    opacity: 0.90;
+    border-radius: 20px; /*curva de las esquinas del div*/
+    /*bode del div*/
+    border: 1px solid black;  
+    padding: 10px;
+    position: relative;
+  }
+  
+  /*efecto del contenedor*/
+  .contcom7:hover{
+    border: 5px solid orange; /* Cambia el borde a gris al pasar el mouse */
+  }
+  
+  /*contenedor de la imagen*/
+  .contcom8{/*para colocar el texto en el centro del div*/
+    margin: auto  auto auto auto;
+  }
+
+  /*contenedor blanco*/
+.contcom9 {
+    display: block;/* Activa Flexbox */  
+    flex-direction: column;
+    flex-wrap: wrap; /*si los elementos no caben en un contenedor, los adicionales se mantendran en fila*/
+    align-items: center;
+    margin: 10px auto;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-right: auto;
+    width: 350px; /*ancho del div*/
+    height: 350px; /*altura del div*/
+    background-color: white; /*color de fondo del div*/
+    text-align: center;  
+    opacity: 0.90;
+    border-radius: 20px; /*curva de las esquinas del div*/
+    /*bode del div*/
+    border: 1px solid black;  
+    padding: 10px;
+    position: relative;
+  }
+  
+  /*efecto del contenedor*/
+  .contcom9:hover{
+    border: 5px solid orange; /* Cambia el borde a gris al pasar el mouse */
+  }
+  
+  /*contenedor de la imagen*/
+  .contcom10{/*para colocar el texto en el centro del div*/
+    margin: auto  auto auto auto;
+  }
+
+.contenedcomedor1{
+    display: flex;/* Activa Flexbox */  
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 10px auto;
+    margin-bottom: 50px;  
+  }
+
+  /*contenedor blanco*/
+.contcom11 {
+    display: block;/* Activa Flexbox */  
+    flex-direction: column;
+    flex-wrap: wrap; /*si los elementos no caben en un contenedor, los adicionales se mantendran en fila*/
+    align-items: center;
+    margin: 10px auto;    
+    width: 350px; /*ancho del div*/
+    height: 350px; /*altura del div*/
+    background-color: white; /*color de fondo del div*/
+    text-align: center;  
+    opacity: 0.90;
+    border-radius: 20px; /*curva de las esquinas del div*/
+    /*bode del div*/
+    border: 1px solid black;  
+    padding: 10px;
+    position: relative;
+  }
+  
+  /*efecto del contenedor*/
+  .contcom11:hover{
+    border: 5px solid orange; /* Cambia el borde a gris al pasar el mouse */
+  }
+  
+  /*contenedor de la imagen*/
+  .contcom12{/*para colocar el texto en el centro del div*/
+    margin: auto  auto auto auto;
+  }
+
+  /*contenedor blanco*/
+.contcom13 {
+    display: block;/* Activa Flexbox */  
+    flex-direction: column;
+    flex-wrap: wrap; /*si los elementos no caben en un contenedor, los adicionales se mantendran en fila*/
+    align-items: center;
+    margin: 10px auto;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-right: auto;
+    width: 350px; /*ancho del div*/
+    height: 350px; /*altura del div*/
+    background-color: white; /*color de fondo del div*/
+    text-align: center;  
+    opacity: 0.90;
+    border-radius: 20px; /*curva de las esquinas del div*/
+    /*bode del div*/
+    border: 1px solid black;  
+    padding: 10px;
+    position: relative;
+  }
+  
+  /*efecto del contenedor*/
+  .contcom13:hover{
+    border: 5px solid orange; /* Cambia el borde a gris al pasar el mouse */
+  }
+  
+  /*contenedor de la imagen*/
+  .contcom14{/*para colocar el texto en el centro del div*/
+    margin: auto  auto auto auto;
+  }
+
+  /*contenedor blanco*/
+.contcom15 {
+    display: block;/* Activa Flexbox */  
+    flex-direction: column;
+    flex-wrap: wrap; /*si los elementos no caben en un contenedor, los adicionales se mantendran en fila*/
+    align-items: center;
+    margin: 10px auto;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-right: auto;
+    width: 350px; /*ancho del div*/
+    height: 350px; /*altura del div*/
+    background-color: white; /*color de fondo del div*/
+    text-align: center;  
+    opacity: 0.90;
+    border-radius: 20px; /*curva de las esquinas del div*/
+    /*bode del div*/
+    border: 1px solid black;  
+    padding: 10px;
+    position: relative;
+  }
+  
+  /*efecto del contenedor*/
+  .contcom15:hover{
+    border: 5px solid orange; /* Cambia el borde a gris al pasar el mouse */
+  }
+  
+  /*contenedor de la imagen*/
+  .contcom16{/*para colocar el texto en el centro del div*/
+    margin: auto  auto auto auto;
+  }
+
+/*------------------------AJUSTES PARA PANTALLAS CELULARES------------------*/
+/* Primer contenedor: ajuste responsivo */
+.contenedcomedor, .contenedcomedor1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centrar los elementos en pantallas grandes */
+  margin: 10px auto;
+}
+
+/* Estilos para los contenedores de los escritorios */
+.contcom1, .contcom5, .contcom7, .contcom9, .contcom11, .contcom13, .contcom15 {
+  display: block;
+  width: 100%;
+  max-width: 350px; /* Mantener un ancho máximo */
+  margin: 10px;
+  background-color: white;
+  text-align: center;
+  opacity: 0.90;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+@media (max-width: 768px) {
+  .contenedcomedor, .contenedcomedor1 {
+    flex-direction: column; /* Cambiar a una sola columna en pantallas pequeñas */
+    align-items: center;
+  }  
+
+  .contcom1, .contcom5, .contcom7, .contcom9, .contcom11, .contcom13, .contcom15 {
+    width: 90%; /* Reducir el tamaño del contenedor en pantallas pequeñas */
+  }  
+}

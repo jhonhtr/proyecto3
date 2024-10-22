@@ -1,0 +1,122 @@
+*{
+  padding: 0;/*eliminando margenes*/
+  margin: 0;/*eliminando margenes*/
+  text-decoration: none; /*eliminando rayitas en los textos*/
+  list-style: none;
+  box-sizing: border-box; /*para que los elementos no se salgan del contenedor*/
+}
+
+nav{
+  background: #fff;
+  height: 80px;/*es la altura del contenedor*/
+  width: 100%;
+}
+
+.enlace{
+  position: absolute;
+  padding: 20px 50 px;
+  margin: 5px 10px;
+}
+
+.logo{
+  height: 40px;/*el padding del enlace son 20px arriba y abajo mas 40px del logo suma 80px con eso lo centramos*/
+}
+
+nav ul{
+  float:right;
+  margin-right: 20px;
+}
+
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+
+nav ul li a {
+  color: black;
+  font-size: 18px;
+  pad: 7px 13px;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+
+li a.active, li a:hover{
+  background: greenyellow;
+  transition: .5s;
+}
+
+.checkbtn{
+  font-size: 30px;
+  color: #fff;
+  float: right;
+  line-height: 80px;/*pongo en la mitad la 3 rayitas*/
+  margin-right: 40px; /*a las 3 rayitas lo separo del borde de la página*/
+  cursor: pointer;/*para que al momento de colocar el mouse encima de las 3 rayitas se transforme en una mano*/
+  display: none;/*esto es para que se vea solo en celular*/
+
+}
+
+#check{
+  display: none;/*para ocultar la cajita del checklist*/
+
+}
+
+section{
+  background: url(./imagen/fondo.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  /*height: 100vh;/*le doy 100vh para que ocupe toda la pantallas*/
+  height: calc(100vh - 80px);/*con esto le digo que me ocupe todo menos los 80px del nav*/
+
+}
+
+/*parte del responsive*/
+
+/*para tableta*/
+@media (max-width: 952px){
+  .enlace{
+      padding-left: 20px;
+  }
+  nav ul li a{
+      font-size: 16px;
+  }
+  
+}
+
+/*para celulares*/
+@media (max-width: 858px){
+  .checkbtn{
+      display: block;
+  }
+  ul{
+      position: fixed;
+      width: 100%;
+      height: 100vh;
+      background: #2c3e50;
+      top: 80px;
+      left: -100%;
+      text-align: center;
+      transition: all .5s;
+  }
+
+  nav ul li{
+      display: block;
+      margin: 50px 0;
+      line-height: 30px;
+  }
+
+  nav ul li a{
+      font-size: 20px;
+  }
+
+  li a:hover, li a.active{
+      background: none;
+      color: red;
+  }
+
+  /*solo cuando el check esté activado le decimos que aparezca*/
+  #check:checked ∿ ul{
+      left:0;
+  }
+}
