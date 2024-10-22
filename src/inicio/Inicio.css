@@ -116,7 +116,7 @@ section{
   }
 
   /*solo cuando el check esté activado le decimos que aparezca*/
-  #check:checked ∿ ul{
+  #check:checked ~ ul{
       left:0;
   }
 }
