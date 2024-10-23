@@ -13,7 +13,7 @@ nav{
   height: 80px;/*es la altura del contenedor*/
   width: 100%;
   position:sticky; /* Mantiene el menú en la parte superior al hacer scroll */
-  top: 0; /* Fija el menú en la parte superior */
+  /*top: 0;*/ /* Fija el menú en la parte superior */
   /*z-index:50;*/ /*para superponer por encima de los demas componentes*/
 }
 
