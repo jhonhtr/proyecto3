@@ -52,8 +52,7 @@ nav ul li a {
 
 li a.active, li a:hover{
   background: greenyellow;
-  transition: .5s;
-  margin: 40 auto;
+  transition: .5s;  
 }
 
 .checkbtn{
