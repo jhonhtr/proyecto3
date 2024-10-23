@@ -3,8 +3,8 @@
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
-  margin: 5px auto;
-  margin-bottom: 10px;  
+  margin: 10px auto;
+  margin-bottom: 50px;  
 }
 
 .servicio1{
@@ -14,8 +14,8 @@
   align-items: center;
   margin: 10px auto;          
   margin-bottom: 5px;
-  width: 300px; /*ancho del div*/
-  height: 100px; /*altura del div*/
+  width: 350px; /*ancho del div*/
+  height: 90px; /*altura del div*/
   background-color: white; /*color de fondo del div*/
   text-align: center;  
   opacity: 0.90;
@@ -24,4 +24,13 @@
   border: 1px solid black;  
   padding: 10px;
   position: relative;
+}
+
+/*efecto del contenedor*/
+.servicio1:hover{
+  border: 2px solid purple;
+}
+.texto-servicio{
+  color: blue;
+  margin: auto auto;
 }
