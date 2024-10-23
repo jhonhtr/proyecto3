@@ -1,3 +1,5 @@
+/*CONFIGURACIÓN DEL ENCABEZADO*/
+
 *{
   padding: 0;/*eliminando margenes*/
   margin: 0;/*eliminando margenes*/
@@ -10,12 +12,19 @@ nav{
   background: #fff;
   height: 80px;/*es la altura del contenedor*/
   width: 100%;
+  /*position:sticky;*/ /* Mantiene el menú en la parte superior al hacer scroll */
+  /*top: 0;*/ /* Fija el menú en la parte superior */
+  z-index:1000; /*para superponer por encima de los demas componentes*/
 }
+
+.menu{
+  z-index:5000;
+}  
 
 .enlace{
   position: absolute;
   padding: 20px 50 px;
-  margin: 5px 10px;
+  margin: 5px 10px;  
 }
 
 .logo{
@@ -43,12 +52,12 @@ nav ul li a {
 
 li a.active, li a:hover{
   background: greenyellow;
-  transition: .5s;
+  transition: .5s;  
 }
 
 .checkbtn{
   font-size: 30px;
-  color: #fff;
+  color: black;
   float: right;
   line-height: 80px;/*pongo en la mitad la 3 rayitas*/
   margin-right: 40px; /*a las 3 rayitas lo separo del borde de la página*/
@@ -56,7 +65,7 @@ li a.active, li a:hover{
   display: none;/*esto es para que se vea solo en celular*/
 
 }
-
+  
 #check{
   display: none;/*para ocultar la cajita del checklist*/
 
@@ -65,8 +74,7 @@ li a.active, li a:hover{
 section{
   background: url(./imagen/fondo.jpg) no-repeat;
   background-size: cover;
-  background-position: center center;
-  /*height: 100vh;/*le doy 100vh para que ocupe toda la pantallas*/
+  background-position: center center;  
   height: calc(100vh - 80px);/*con esto le digo que me ocupe todo menos los 80px del nav*/
 
 }
@@ -87,8 +95,9 @@ section{
 /*para celulares*/
 @media (max-width: 858px){
   .checkbtn{
-      display: block;
+      display: block;    
   }
+  
   ul{
       position: fixed;
       width: 100%;
@@ -116,7 +125,103 @@ section{
   }
 
   /*solo cuando el check esté activado le decimos que aparezca*/
-  #check:checked ∿ ul{
+  #check:checked ~ ul{
       left:0;
   }
+}
+
+/*CONFIGURACIÓN CENTRAL DE LA PAGINA*/
+
+h1{/*para darle efecto al titulo de información*/
+  color:blue;
+  text-shadow: 1px 2px 2px black, 0 0 25px orange, 0 0 5px orange;
+  text-align: center;
+  margin-left: 5px auto 10px; /*es para darle espacio entre el logo y el texto*/
+}
+
+.inicio{
+  display: block;/* Activa Flexbox */  
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 10px auto;
+}
+
+.inicio2{
+  display: flex;/* Activa Flexbox */  
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 10px auto;
+  margin-bottom: 50px;  
+}
+
+.inicio3{
+  display: block;/* Activa Flexbox */  
+  flex-direction: column;
+  flex-wrap: wrap; /*si los elementos no caben en un contenedor, los adicionales se mantendran en fila*/
+  align-items: center;
+  margin: 10px auto;          
+  margin-bottom: 5px;
+  width: 250px; /*ancho del div*/
+  height: 90px; /*altura del div*/
+  background-color: white; /*color de fondo del div*/
+  text-align: center;  
+  opacity: 0.90;
+  border-radius: 20px; /*curva de las esquinas del div*/
+  /*bode del div*/
+  border: 1px solid black;  
+  padding: 10px;
+  position: relative;
+}
+
+/*efecto del contenedor*/
+.inicio3:hover{
+  border: 3px solid purple;
+}
+
+/*CONFIGURACION PIE DE PÁGINA*/
+
+h3{
+  color: #fff;
+}
+h2{
+  color: #fff;
+}
+.contacto{
+  color: orange;
+}
+.correo{
+  color: orange;
+}
+.contacto:hoover{
+  background: greenyellow;
+}
+.correo:hoover{
+  background: greenyellow;
+}
+
+.pie{
+  display: block;
+  width: 100%;
+  max-width: 600px; /* Mantener un ancho máximo */
+  margin: 10px auto;
+  /*background-color: black;*/
+  text-align: center;
+  opacity: 0.90;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+footer {
+  /*margin-top:500px;*/
+  /*background-color: #222;*/
+  background-color: gray;
+  padding: 2rem;
+  color: #fff;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
 }
