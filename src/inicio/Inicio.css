@@ -59,6 +59,11 @@ li a.active, li a:hover{
 
 }
 
+.menu{
+position:sticky; /* Mantiene el menú en la parte superior al hacer scroll */
+top: 0; /* Fija el menú en la parte superior */
+}
+  
 #check{
   display: none;/*para ocultar la cajita del checklist*/
 
