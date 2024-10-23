@@ -130,7 +130,58 @@ section{
   }
 }
 
+/*CONFIGURACIÓN CENTRAL DE LA PAGINA*/
+
+h1{/*para darle efecto al titulo de información*/
+  color:blue;
+  text-shadow: 1px 2px 2px black, 0 0 25px orange, 0 0 5px orange;
+  text-align: center;
+  margin-left: 5px auto 10px; /*es para darle espacio entre el logo y el texto*/
+}
+
+.inicio{
+  display: block;/* Activa Flexbox */  
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 10px auto;
+}
+
+.inicio2{
+  display: flex;/* Activa Flexbox */  
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 10px auto;
+  margin-bottom: 50px;  
+}
+
+.inicio3{
+  display: block;/* Activa Flexbox */  
+  flex-direction: column;
+  flex-wrap: wrap; /*si los elementos no caben en un contenedor, los adicionales se mantendran en fila*/
+  align-items: center;
+  margin: 10px auto;          
+  margin-bottom: 5px;
+  width: 250px; /*ancho del div*/
+  height: 90px; /*altura del div*/
+  background-color: white; /*color de fondo del div*/
+  text-align: center;  
+  opacity: 0.90;
+  border-radius: 20px; /*curva de las esquinas del div*/
+  /*bode del div*/
+  border: 1px solid black;  
+  padding: 10px;
+  position: relative;
+}
+
+/*efecto del contenedor*/
+.inicio3:hover{
+  border: 3px solid purple;
+}
+
 /*CONFIGURACION PIE DE PÁGINA*/
+
 h3{
   color: #fff;
 }
@@ -153,7 +204,7 @@ h2{
 .pie{
   display: block;
   width: 100%;
-  max-width: 500px; /* Mantener un ancho máximo */
+  max-width: 600px; /* Mantener un ancho máximo */
   margin: 10px auto;
   /*background-color: black;*/
   text-align: center;
@@ -164,7 +215,8 @@ h2{
 
 footer {
   /*margin-top:500px;*/
-  background-color: #222;
+  /*background-color: #222;*/
+  background-color: gray;
   padding: 2rem;
   color: #fff;
   text-align: center;
