@@ -70,8 +70,7 @@ li a.active, li a:hover{
 section{
   background: url(./imagen/fondo.jpg) no-repeat;
   background-size: cover;
-  background-position: center center;
-  /*height: 100vh;/*le doy 100vh para que ocupe toda la pantallas*/
+  background-position: center center;  
   height: calc(100vh - 80px);/*con esto le digo que me ocupe todo menos los 80px del nav*/
 
 }
@@ -93,6 +92,8 @@ section{
 @media (max-width: 858px){
   .checkbtn{
       display: block;
+      z-index:1000;
+    
   }
   ul{
       position: fixed;
