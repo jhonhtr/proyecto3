@@ -1,8 +1,13 @@
 import React, { useEffect } from 'react';
+<<<<<<< HEAD
 import { faHome, faBars, faLocation } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons'; // Importa el icono de WhatsApp
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';  // Para el icono de correo
+=======
+import { faHome, faBars } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+>>>>>>> 96d1ce262aed8fd3e5d4630c70053e5a57a08cfb
 import './contacto.css';
 import fondo from './imagen/fondo.jpg';
 import logo from './imagen/logo.png';
@@ -37,6 +42,7 @@ const Contacto = () => {
             </nav>
 
             <footer>
+<<<<<<< HEAD
             <div>                
                     <div className='pie'>
                         <h2><a className='imagen1' target="_blank" rel="noopener noreferrer" 
@@ -71,6 +77,21 @@ const Contacto = () => {
                             <a className='correo' target="_blank" rel="noopener noreferrer" href="mailto:jhonhtr@gmail.com">
                                 <FontAwesomeIcon icon={faEnvelope} /> jhonhtr@gmail.com
                             </a><br/>
+=======
+                <div>                
+                    <div className='pie'>
+                        <h2>MUNDO SOLUCIONES NET</h2><br/>
+                        <h3>Horario de atención:<br/>
+                            Lunes de Viernes: 07:00am - 06:30pm<br/>
+                            Sábados: 08:00am - 06:30am<br/>
+                            <a className='contacto' target="_blank" rel="noopener noreferrer" 
+                            href="https://wa.me/+573124191663">+57 312 419 1663</a><br/>
+                            <a className='correo' targe="_black" rel="noopener noreferrer" href="mailto:mundosolucionesnet@gmail.com">mundosolucionesnet@gmail.com</a><br/>
+                            Carrera 12 # 13-82 Centro <br/>
+                            Florencia, Caquetá - Colombia <br/><br/>
+                            Desarrollador: Jhon Tierradentro / <a className='contacto' target="_blank" rel="noopener noreferrer" href="https://wa.me/+573205119854">+573205119854</a><br/>
+                            <a className='correo' target="_blank" rel="noopener noreferrer" href="mailto:jhonhtr@gmail.com">jhonhtr@gmail.com </a><br/>                
+>>>>>>> 96d1ce262aed8fd3e5d4630c70053e5a57a08cfb
                             Derechos Reservados- Copyright 2024
                         </h3>
                     </div>
