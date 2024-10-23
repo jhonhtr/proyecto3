@@ -151,7 +151,7 @@ h2{
   width: 100%;
   max-width: 500px; /* Mantener un ancho máximo */
   margin: 10px auto;
-  background-color: black;
+  /*background-color: black;*/
   text-align: center;
   opacity: 0.90;
   border-radius: 20px;
