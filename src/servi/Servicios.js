@@ -38,8 +38,7 @@ const Servicios = () => {
 
             <div className='inicio1'>
                     <div className="texto-inicio">
-                        <h1><a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://mundosolucionesnet.vercel.app/">Servicios</a></h1>
+                        <h1>Servicios</h1>
                     </div>                    
             </div>
 
