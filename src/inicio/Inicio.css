@@ -91,10 +91,9 @@ section{
 /*para celulares*/
 @media (max-width: 858px){
   .checkbtn{
-      display: block;
-      z-index:1000;
-    
+      display: block;    
   }
+  
   ul{
       position: fixed;
       width: 100%;
