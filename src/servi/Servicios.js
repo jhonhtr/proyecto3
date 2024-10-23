@@ -28,7 +28,7 @@ const Servicios = () => {
                     <FontAwesomeIcon icon={faBars} />
                     {/*<FontAwesomeIcon icon={faHome} />*/}
                 </label>
-                <a href="#" className="enlace"> <img src={logo} alt="cama1" width={70} height={70} /> </a>                
+                <a href="https://mundosolucionesnet.vercel.app/" className="enlace"> <img src={logo} alt="cama1" width={70} height={70} /> </a>
                 <ul className="menu">                
                     <li><a href="/">Inicio</a></li>
                     <li><a href="">Servicios</a></li>
