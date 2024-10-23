@@ -14,7 +14,7 @@ nav{
   width: 100%;
   /*position:sticky;*/ /* Mantiene el menú en la parte superior al hacer scroll */
   /*top: 0;*/ /* Fija el menú en la parte superior */
-  /*z-index:1000;*/ /*para superponer por encima de los demas componentes*/
+  z-index:1000; /*para superponer por encima de los demas componentes*/
 }
 
 .enlace{
