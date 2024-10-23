@@ -17,6 +17,10 @@ nav{
   z-index:1000; /*para superponer por encima de los demas componentes*/
 }
 
+.menu{
+  z-index:5000;
+}  
+
 .enlace{
   position: absolute;
   padding: 20px 50 px;
