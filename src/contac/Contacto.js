@@ -67,7 +67,12 @@ const Contacto = () => {
                         <a className='contact' target="_blank" rel="noopener noreferrer" href="https://wa.me/+573232094820">
                                 <FontAwesomeIcon icon={faWhatsapp} /> +57 323 209 4820
                         </a>
-                    </div>                    
+                    </div> 
+                    <div className='contacto1'>
+                        <a className='contact'> PARA PAGOS<br/>
+                        MUNDO SOLUCIONES ARN<br/>
+                        Código de comercio: 935706498 </a>
+                    </div>
                 </div>
 
                 <div className='pago'>                    
