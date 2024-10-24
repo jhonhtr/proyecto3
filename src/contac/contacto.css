@@ -1,1 +1,74 @@
+.divcontacto{
+    display: flex;/* Activa Flexbox */  
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 10px auto;
+    margin-bottom: 50px;  
+  }
 
+.contacto1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra los elementos horizontalmente */
+    text-align: center;  /* Centra el texto dentro de los elementos */
+    padding: 20px;       /* Espaciado alrededor del contenido */
+    /*background-color: aliceblue;*/
+    margin: 0px auto;          
+    /*margin-bottom: 5px;*/
+}
+
+.contactitulo {
+    margin-bottom: 5px; /* Espacio entre el título y los enlaces */
+}
+
+.contact {
+    display: flex;
+    align-items: center; /* Centra el icono y el texto verticalmente */
+    margin: 10px 0;     /* Espacio entre cada enlace */
+    text-decoration: none; /* Elimina el subrayado del enlace */
+    /*color: inherit;*/      /* Hereda el color del texto del padre */
+}
+
+.contacto:hover {
+    color: #25D366; /* Cambia el color al pasar el ratón (opcional) */
+}
+
+.pago {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra los elementos horizontalmente */
+    text-align: center;  /* Centra el texto dentro de los elementos */
+    padding: 20px;       /* Espaciado alrededor del contenido */
+    /*background-color: aliceblue;*/
+    margin: 10px auto;          
+  margin-bottom: 5px;
+}
+
+.contactoimagen {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra los elementos horizontalmente */
+    text-align: center;  /* Centra el texto dentro de los elementos */
+    padding: 20px;       /* Espaciado alrededor del contenido */
+    /*background-color: aliceblue;*/
+    margin: 10px auto;          
+  margin-bottom: 5px;
+}
+
+.contactoimagen1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra los elementos horizontalmente */
+    text-align: center;  /* Centra el texto dentro de los elementos */
+    padding: 20px;       /* Espaciado alrededor del contenido */
+    /*background-color: aliceblue;*/
+    margin: 10px auto;          
+    margin-bottom: 5px;
+}
+
+.divcontacto{
+    background-color: white;
+    width: 100%;
+    max-width: 3000px; /* Mantener un ancho máximo */
+}
