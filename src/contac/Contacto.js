@@ -6,6 +6,10 @@ import { faEnvelope } from '@fortawesome/free-solid-svg-icons';  // Para el icon
 import './contacto.css';
 import fondo from './imagen/fondo.jpg';
 import logo from './imagen/logo.png';
+import uno from './imagen/uno.jpg';
+import dos from './imagen/dos.jpg';
+import tres from './imagen/tres.jpg';
+import pago from './imagen/pago.jpg';
 
 const Contacto = () => {
     useEffect(() => {
@@ -41,6 +45,57 @@ const Contacto = () => {
                         <h1><a className='imagen1' target="_blank" rel="noopener noreferrer" 
                         href="https://mundosolucionesnet.vercel.app/">Mundo Soluciones ARN / Contacto</a></h1>
                     </div>                    
+            </div>
+
+            <div className='divcontacto'>
+                
+                <div className='contacto1'>
+                    <div className="contactitulo">
+                        <h1>Contactenos</h1><br/>
+                    </div>
+                    <div className='contacto1'>
+                        <a className='contact' target="_blank" rel="noopener noreferrer" href="https://wa.me/+573172396056">
+                                <FontAwesomeIcon icon={faWhatsapp} /> +57 317 239 6056
+                        </a>
+                    </div>
+                    <div className='contacto1'>
+                        <a className='contact' target="_blank" rel="noopener noreferrer" href="https://wa.me/+573143954997">
+                                <FontAwesomeIcon icon={faWhatsapp} /> +57 314 395 4997
+                        </a>
+                    </div>
+                    <div className='contacto1'>
+                        <a className='contact' target="_blank" rel="noopener noreferrer" href="https://wa.me/+573232094820">
+                                <FontAwesomeIcon icon={faWhatsapp} /> +57 323 209 4820
+                        </a>
+                    </div>                    
+                </div>
+
+                <div className='pago'>                    
+                    <img src={pago} alt="pago" width={400} height={600}/>
+                </div>
+
+                <div className='contactoimagen'>
+                    <div className="imagen1">
+                        <a className='img1' target="_blank" rel="noopener noreferrer" 
+                        href="https://www.google.com/maps/place/Mundo+Comunicaciones.net/@4.7338903,-74.0316867,19z/data=!4m14!1m7!3m6!1s0x8e3f8f88156ba53d:0xf6e874ce92545800!2sParque+Altablanca!8m2!3d4.7342508!4d-74.0286737!16s%2Fg%2F1tq8klkx!3m5!1s0x8e3f8562916c0449:0xad997a02e5a7842f!8m2!3d4.733889!4d-74.031043!16s%2Fg%2F1yj2mft6l?hl=es&entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D">
+                        <img src={uno} alt="uno" width={200} height={100}/></a>
+                    </div>
+
+                    <div className="imagen1">
+                        <a className='img1' target="_blank" rel="noopener noreferrer" 
+                        href="https://www.google.com/maps/place/Mundo+Comunicaciones.net/@4.7338903,-74.0316867,19z/data=!4m14!1m7!3m6!1s0x8e3f8f88156ba53d:0xf6e874ce92545800!2sParque+Altablanca!8m2!3d4.7342508!4d-74.0286737!16s%2Fg%2F1tq8klkx!3m5!1s0x8e3f8562916c0449:0xad997a02e5a7842f!8m2!3d4.733889!4d-74.031043!16s%2Fg%2F1yj2mft6l?hl=es&entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D">
+                        <img src={dos} alt="dos" width={200} height={100}/></a><br/>
+                    </div>
+                </div>
+                
+                <div className='contactoimagen1'>
+                    <div className="imagenlogo">
+                        <a className='img1' target="_blank" rel="noopener noreferrer" 
+                        href="https://www.google.com/maps/place/Mundo+Comunicaciones.net/@4.7338903,-74.0316867,19z/data=!4m14!1m7!3m6!1s0x8e3f8f88156ba53d:0xf6e874ce92545800!2sParque+Altablanca!8m2!3d4.7342508!4d-74.0286737!16s%2Fg%2F1tq8klkx!3m5!1s0x8e3f8562916c0449:0xad997a02e5a7842f!8m2!3d4.733889!4d-74.031043!16s%2Fg%2F1yj2mft6l?hl=es&entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D">
+                        <img src={tres} alt="tres" width={400} height={240}/></a>
+                    </div>                    
+                </div>                
+
             </div>
 
             <footer>
