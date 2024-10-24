@@ -49,6 +49,9 @@ const Contacto = () => {
                     <div className='pie'>                        
                         <h2><a className='imagen1' target="_blank" rel="noopener noreferrer" 
                         href="https://mundosolucionesnet.vercel.app/">MUNDO SOLUCIONES.NET</a></h2>
+                        <div className='imagenlogo'>
+                            <a href="https://mundosolucionesnet.vercel.app/" className="enlace"> <img src={logo} alt="logo" width={90} height={90} /> </a>
+                        </div>
                     </div>
 
                     <div clas className='pie'>
