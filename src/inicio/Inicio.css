@@ -201,6 +201,16 @@ h2{
   background: greenyellow;
 }
 
+/*PARA COLOCAR LOS DIV DENTRO HORIZONTALMENTE*/
+.piepagina{
+  display: flex;/* Activa Flexbox */  
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 10px auto;
+  margin-bottom: 50px;  
+}
+
 .pie{
   display: block;
   width: 100%;
@@ -212,7 +222,6 @@ h2{
   border-radius: 20px;
   padding: 10px;
 }
-
 footer {
   /*margin-top:500px;*/
   /*background-color: #222;*/
