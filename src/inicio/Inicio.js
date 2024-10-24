@@ -30,6 +30,66 @@ import veintiuno from './imagen/veintiuno.jpg';
 import veintidos from './imagen/veintidos.jpg';
 import veintitres from './imagen/veintitres.jpg';
 import veinticuatro from './imagen/veinticuatro.jpg';
+import veinticinco from './imagen/veinticinco.jpg';
+import veintiseis from './imagen/veintiseis.jpg';
+import veintisiete from './imagen/veintisiete.jpg';
+import veintiocho from './imagen/veintiocho.jpg';
+import veintinueve from './imagen/veintinueve.jpg';
+import treinta from './imagen/treinta.jpg';
+import treintaiuno from './imagen/treintaiuno.jpg';
+import treintaidos from './imagen/treintaidos.jpg';
+import treintaitres from './imagen/treintaitres.jpg';
+import treintaicuatro from './imagen/treintaicuatro.jpg';
+import treintaicinco from './imagen/treintaicinco.jpg';
+import treintaiseis from './imagen/treintaiseis.jpg';
+import treintaisiete from './imagen/treintaisiete.jpg';
+import treintaiocho from './imagen/treintaiocho.jpg';
+import treintainueve from './imagen/treintainueve.jpg';
+import cuarenta from './imagen/cuarenta.jpg';
+import cuarentaiuno from './imagen/cuarentaiuno.jpg';
+import cuarentaidos from './imagen/cuarentaidos.jpg';
+import cuarentaitres from './imagen/cuarentaitres.jpg';
+import cuarentaicuatro from './imagen/cuarentaicuatro.jpg';
+import cuarentaicinco from './imagen/cuarentaicinco.jpg';
+import cuarentaiseis from './imagen/cuarentaiseis.jpg';
+import cuarentaisiete from './imagen/cuarentaisiete.jpg';
+import cuarentaiocho from './imagen/cuarentaiocho.jpg';
+import cuarentainueve from './imagen/cuarentainueve.jpg';
+import cincuenta from './imagen/cincuenta.jpg';
+import cincuentaiuno from './imagen/cincuentaiuno.jpg';
+import cincuentaidos from './imagen/cincuentaidos.jpg';
+import cincuentaitres from './imagen/cincuentaitres.jpg';
+import cincuentaicuatro from './imagen/cincuentaicuatro.jpg';
+import cincuentaicinco from './imagen/cincuentaicinco.jpg';
+import cincuentaiseis from './imagen/cincuentaiseis.jpg';
+import cincuentaisiete from './imagen/cincuentaisiete.jpg';
+import cincuentaiocho from './imagen/cincuentaiocho.jpg';
+import cincuentainueve from './imagen/cincuentainueve.jpg';
+import sesenta from './imagen/sesenta.jpg';
+import sesentaiuno from './imagen/sesentaiuno.jpg';
+import sesentaidos from './imagen/sesentaidos.jpg';
+import sesentaitres from './imagen/sesentaitres.jpg';
+import sesentaicuatro from './imagen/sesentaicuatro.jpg';
+import sesentaicinco from './imagen/sesentaicinco.jpg';
+import sesentaiseis from './imagen/sesentaiseis.jpg';
+import sesentaisiete from './imagen/sesentaisiete.jpg';
+import sesentaiocho from './imagen/sesentaiocho.jpg';
+import sesentainueve from './imagen/sesentainueve.jpg';
+import setenta from './imagen/setenta.jpg';
+import setentaiuno from './imagen/setentaiuno.jpg';
+import setentaidos from './imagen/setentaidos.jpg';
+import setentaitres from './imagen/setentaitres.jpg';
+import setentaicuatro from './imagen/setentaicuatro.jpg';
+import setentaicinco from './imagen/setentaicinco.jpg';
+import setentaiseis from './imagen/setentaiseis.jpg';
+import setentaisiete from './imagen/setentaisiete.jpg';
+import setentaiocho from './imagen/setentaiocho.jpg';
+import setentainueve from './imagen/setentainueve.jpg';
+import ochenta from './imagen/ochenta.jpg';
+import ochentaiuno from './imagen/ochentaiuno.jpg';
+import ochentaidos from './imagen/ochentaidos.jpg';
+import ochentaitres from './imagen/ochentaitres.jpg';
+import ochentaicuatro from './imagen/ochentaicuatro.jpg';
 
 const Inicio = () => {
     useEffect(() => {
@@ -256,6 +316,599 @@ const Inicio = () => {
                 </div>
 
             </div>
+
+<div className='inicio2'>
+                
+                <div className='inicio3'>
+                    <div className="texto-inicio">
+                    <a className='imagen1' target="_blank" rel="noopener noreferrer" 
+                    href="#"><img src={veinticinco} alt="veinticinco" width={120} height={60}/></a>
+                    </div>                    
+                </div>
+
+                <div className='inicio3'>
+                    <div className="texto-inicio">
+                        <a className='imagen1' target="_blank" rel="noopener noreferrer" 
+                        href="#"><img src={veintiseis} alt="veintiseis" width={120} height={60}/></a>
+                    </div>                    
+                </div>
+
+                <div className='inicio3'>
+                    <div className="texto-inicio">
+                        <a className='imagen1' target="_blank" rel="noopener noreferrer" 
+                        href="#"><img src={veintisiete} alt="veintisiete" width={120} height={60}/></a>
+                    </div>                    
+                </div>
+
+                <div className='inicio3'>
+                    <div className="texto-inicio">
+                        <a className='imagen1' target="_blank" rel="noopener noreferrer" 
+                        href="#"><img src={veintiocho} alt="veintiocho" width={120} height={60}/></a>
+                    </div>                    
+                </div>
+
+		        <div className='inicio3'>
+                    <div className="texto-inicio">
+                        <a className='imagen1' target="_blank" rel="noopener noreferrer" 
+                        href="#"><img src={veintinueve} alt="veintinueve" width={120} height={60}/></a>
+                    </div>                    
+                </div>
+
+		        <div className='inicio3'>
+                    <div className="texto-inicio">
+                    <a className='imagen1' target="_blank" rel="noopener noreferrer" 
+                        href="#"><img src={treinta} alt="treinta" width={120} height={60}/></a>
+                    </div>                    
+                </div>
+
+            </div>
+
+            <div className='inicio2'>
+                
+                <div className='inicio3'>
+                    <div className="texto-inicio">
+                    <a className='imagen1' target="_blank" rel="noopener noreferrer" 
+                    href="#"><img src={treintaiuno} alt="treintaiuno" width={120} height={60}/></a>
+                    </div>                    
+                </div>
+
+                <div className='inicio3'>
+                    <div className="texto-inicio">
+                        <a className='imagen1' target="_blank" rel="noopener noreferrer" 
+                        href="#"><img src={treintaidos} alt="treintaidos" width={120} height={60}/></a>
+                    </div>                    
+                </div>
+
+                <div className='inicio3'>
+                    <div className="texto-inicio">
+                        <a className='imagen1' target="_blank" rel="noopener noreferrer" 
+                        href="#"><img src={treintaitres} alt="treintaitres" width={120} height={60}/></a>
+                    </div>                    
+                </div>
+
+                <div className='inicio3'>
+                    <div className="texto-inicio">
+                        <a className='imagen1' target="_blank" rel="noopener noreferrer" 
+                        href="#"><img src={treintaicuatro} alt="treintaicuatro" width={120} height={60}/></a>
+                    </div>                    
+                </div>
+
+		        <div className='inicio3'>
+                    <div className="texto-inicio">
+                        <a className='imagen1' target="_blank" rel="noopener noreferrer" 
+                        href="#"><img src={treintaicinco} alt="treintaicinco" width={120} height={60}/></a>
+                    </div>                    
+                </div>
+
+		        <div className='inicio3'>
+                    <div className="texto-inicio">
+                    <a className='imagen1' target="_blank" rel="noopener noreferrer" 
+                        href="#"><img src={treintaiseis} alt="treintaiseis" width={120} height={60}/></a>
+                    </div>                    
+                </div>
+
+            </div>
+
+            <div className='inicio2'>
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={veinticinco} alt="veinticinco" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={veintiseis} alt="veintiseis" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={veintisiete} alt="veintisiete" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={veintiocho} alt="veintiocho" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={veintinueve} alt="veintinueve" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={treinta} alt="treinta" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+</div>
+
+<div className='inicio2'>
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={treintaiuno} alt="treintaiuno" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={treintaidos} alt="treintaidos" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={treintaitres} alt="treintaitres" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={treintaicuatro} alt="treintaicuatro" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={treintaicinco} alt="treintaicinco" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={treintaiseis} alt="treintaiseis" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+</div>
+
+<div className='inicio2'>
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={treintaisiete} alt="treintaisiete" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={treintaiocho} alt="treintaiocho" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={treintainueve} alt="treintainueve" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cuarenta} alt="cuarenta" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cuarentaiuno} alt="cuarentaiuno" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cuarentaidos} alt="cuarentaidos" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+</div>
+
+<div className='inicio2'>
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cuarentaitres} alt="cuarentaitres" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cuarentaicuatro} alt="cuarentaicuatro" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cuarentaicinco} alt="cuarentaicinco" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cuarentaiseis} alt="cuarentaiseis" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cuarentaisiete} alt="cuarentaisiete" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cuarentaiocho} alt="cuarentaiocho" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+</div>
+
+<div className='inicio2'>
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cuarentainueve} alt="cuarentainueve" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cincuenta} alt="cincuenta" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cincuentaiuno} alt="cincuentaiuno" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cincuentaidos} alt="cincuentaidos" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cincuentaitres} alt="cincuentaitres" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cincuentaicuatro} alt="cincuentaicuatro" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+</div>
+
+<div className='inicio2'>
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cincuentaicinco} alt="cincuentaicinco" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cincuentaiseis} alt="cincuentaiseis" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cincuentaisiete} alt="cincuentaisiete" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cincuentaiocho} alt="cincuentaiocho" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={cincuentainueve} alt="cincuentainueve" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={sesenta} alt="sesenta" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+</div>
+
+<div className='inicio2'>
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={sesentaiuno} alt="sesentaiuno" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={sesentaidos} alt="sesentaidos" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={sesentaitres} alt="sesentaitres" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={sesentaicuatro} alt="sesentaicuatro" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={sesentaicinco} alt="sesentaicinco" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={sesentaiseis} alt="sesentaiseis" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+</div>
+
+<div className='inicio2'>
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={sesentaisiete} alt="sesentaisiete" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={sesentaiocho} alt="sesentaiocho" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={sesentainueve} alt="sesentainueve" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={setenta} alt="setenta" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={setentaiuno} alt="setentaiuno" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={setentaidos} alt="setentaidos" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+</div>
+
+<div className='inicio2'>
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={setentaitres} alt="setentaitres" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={setentaicuatro} alt="setentaicuatro" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={setentaicinco} alt="setentaicinco" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={setentaiseis} alt="setentaiseis" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={setentaisiete} alt="setentaisiete" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={setentaiocho} alt="setentaiocho" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+</div>
+
+<div className='inicio2'>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={setentainueve} alt="setentainueve" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={ochenta} alt="ochenta" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={ochentaiuno} alt="ochentaiuno" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={ochentaidos} alt="ochentaidos" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={ochentaitres} alt="ochentaitres" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+
+    <div className='inicio3'>
+        <div className="texto-inicio">
+            <a className='imagen1' target="_blank" rel="noopener noreferrer" href="#">
+                <img src={ochentaicuatro} alt="ochentaicuatro" width={120} height={60} />
+            </a>
+        </div>
+    </div>
+</div>
             
 
             <footer>
