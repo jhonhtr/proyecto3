@@ -127,7 +127,7 @@ const Inicio = () => {
                 <div className='inicio1'>
                     <div className="texto-inicio">
                         <h1><a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://mundosolucionesnet.vercel.app/">Mundo Soluciones.Net</a></h1>
+                        href="https://mundosolucionesnet.vercel.app/">Mundo Soluciones ARN</a></h1>
                     </div>                    
                 </div>
                 
@@ -917,7 +917,7 @@ const Inicio = () => {
                     <div className='pieinicio'>
                         <div className='pietitulo'>
                             <h2><a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                            href="https://mundosolucionesnet.vercel.app/">MUNDO SOLUCIONES.NET</a></h2>
+                            href="https://mundosolucionesnet.vercel.app/">MUNDO SOLUCIONES ARN</a></h2>
                         </div>
                         <div className='imagenlogo'>
                             <a href="https://mundosolucionesnet.vercel.app/" className="enlace"> <img src={logo} alt="logo" width={90} height={90} /> </a>
