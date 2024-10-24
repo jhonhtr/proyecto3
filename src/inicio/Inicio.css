@@ -211,17 +211,23 @@ h2{
   margin-bottom: 50px;  
 }
 
+.imagenlogo{
+  margin:1px 200px 1px 100px;
+}
+
 .pie{
   display: block;
   width: 100%;
   max-width: 600px; /* Mantener un ancho máximo */
-  margin: 10px auto;
-  /*background-color: black;*/
+  height: 150px;
+  margin: 20px auto;
+  /*background-color: white;*/
   text-align: center;
   opacity: 0.90;
   border-radius: 20px;
   padding: 10px;
 }
+
 footer {
   /*margin-top:500px;*/
   /*background-color: #222;*/
