@@ -151,32 +151,42 @@ const Servicios = () => {
             </div>
 
             <footer>
-            <div>                
-                    <div className='pie'>
+                <div className='piepagina'>                
+                    
+                    <div className='pie'>                        
                         <h2><a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://mundosolucionesnet.vercel.app/">MUNDO SOLUCIONES.NET</a></h2><br/>
+                        href="https://mundosolucionesnet.vercel.app/">MUNDO SOLUCIONES.NET</a></h2>
+                    </div>
+
+                    <div clas className='pie'>
                         <h3>Horario de atención:<br/>
                             Lunes de Viernes: 07:00am - 06:30pm<br/>
-                            Sábados: 08:00am - 06:30am<br/>                            
-                            
+                            Sábados: 08:00am - 06:30am<br/>                         
+                                                     
                             {/* Icono de WhatsApp con enlace */}
                             <a className='contacto' target="_blank" rel="noopener noreferrer" href="https://wa.me/+573124191663">
                                 <FontAwesomeIcon icon={faWhatsapp} /> +57 312 419 1663
-                            </a><br/>                            
-                            
+                            </a><br/>
+                        </h3>    
+                    </div>                          
+
+                    <div className='pie'>  
                             {/* Icono de Correo con enlace */}
-                            <a className='correo' target="_blank" rel="noopener noreferrer" href="mailto:mundosolucionesnet@gmail.com">
+                            <h3><a className='correo' target="_blank" rel="noopener noreferrer" href="mailto:mundosolucionesnet@gmail.com">
                                 <FontAwesomeIcon icon={faEnvelope} /> mundosolucionesnet@gmail.com
                             </a><br/>
 
-                            Carrera 12 # 13-82 Centro <br/>
+                            {/* Icono de Ubicación */}
+                            <FontAwesomeIcon icon={faLocation} /> Carrera 12 # 13-82 Centro<br/>
                             Florencia, Caquetá - Colombia <br/>
 
                             <a className='ubicacion' target="_blank" rel="noopener noreferrer" href="https://www.google.com/maps/place/Mundo+Comunicaciones.net/@4.7338903,-74.0316867,19z/data=!4m14!1m7!3m6!1s0x8e3f8f88156ba53d:0xf6e874ce92545800!2sParque+Altablanca!8m2!3d4.7342508!4d-74.0286737!16s%2Fg%2F1tq8klkx!3m5!1s0x8e3f8562916c0449:0xad997a02e5a7842f!8m2!3d4.733889!4d-74.031043!16s%2Fg%2F1yj2mft6l?hl=es&entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D">
                                 <FontAwesomeIcon icon={faLocation} />  Ubicación
-                            </a><br/><br/>
+                            </a></h3>
+                    </div>
                             
-                            Desarrollador: Jhon Tierradentro/
+                    <div className='pie'>
+                        <h3>Desarrollador: Jhon Tierradentro<br/>
                             <a className='contacto' target="_blank" rel="noopener noreferrer" href="https://wa.me/+573205119854">
                                 <FontAwesomeIcon icon={faWhatsapp} />  +57 320 511 9854
                             </a><br/>
@@ -187,7 +197,7 @@ const Servicios = () => {
                             </a><br/>
                             Derechos Reservados- Copyright 2024
                         </h3>
-                    </div>
+                    </div>                    
                 </div>
             </footer>
         </div>
