@@ -76,7 +76,7 @@ const Contacto = () => {
                 </div>
 
                 <div className='pago'>                    
-                    <img src={pago} alt="pago" width={400} height={600}/>
+                    <img src={pago} alt="pago" width={300} height={500}/>
                 </div>
 
                 <div className='contactoimagen'>
