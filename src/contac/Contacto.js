@@ -97,7 +97,7 @@ const Contacto = () => {
                     <div className="imagenlogo">
                         <a className='img1' target="_blank" rel="noopener noreferrer" 
                         href="https://www.google.com/maps/place/Mundo+Comunicaciones.net/@4.7338903,-74.0316867,19z/data=!4m14!1m7!3m6!1s0x8e3f8f88156ba53d:0xf6e874ce92545800!2sParque+Altablanca!8m2!3d4.7342508!4d-74.0286737!16s%2Fg%2F1tq8klkx!3m5!1s0x8e3f8562916c0449:0xad997a02e5a7842f!8m2!3d4.733889!4d-74.031043!16s%2Fg%2F1yj2mft6l?hl=es&entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D">
-                        <img src={tres} alt="tres" width={400} height={240}/></a>
+                        <img src={tres} alt="tres" width={300} height={140}/></a>
                     </div>                    
                 </div>                
 
