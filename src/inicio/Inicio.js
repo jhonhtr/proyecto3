@@ -114,7 +114,8 @@ const Inicio = () => {
                 </label>
                 <a href="https://mundosolucionesnet.vercel.app/" className="enlace"> <img src={logo} alt="cama1" width={70} height={70} /> </a>               
 
-                <ul className="menu">                
+                <ul className="menu">     
+	    	    <li><a href="/"><h1>MUNDO SOLUCIONES ARN</h1></a></li>
                     <li><a href="">Inicio</a></li>
                     <li><a href="/Servicios">Servicios</a></li>
                     <li><a href="/Contacto">Contacto</a></li>  
