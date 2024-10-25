@@ -47,26 +47,47 @@ const Servicios = () => {
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Fotocopias a blanco y negro y color.
-                    </div>                    
+                    </div>  
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Fotocopias%20a%20blanco%20y%20negro%20y%20color.`}>
+                        Solicitar Información</a>
+                    </div>               
                 </div>
 
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Elaboración y envío de diversos documentos tanto personales como de trabajo.
-                    </div>                    
+                    </div>
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Elaboración%20y%20envío%20de%20diversos%20documentos%20tanto%20personales%20como%20de%20trabajo.`}>
+                        Solicitar Información</a>
+                    </div>
                 </div>
 
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Asesorías en documentación ante entidades públicas y privadas.
-                    </div>                    
+                    </div>  
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Asesorías%20en%20documentación%20ante%20entidades%20públicas%20y%20privadas.`}>
+                        Solicitar Información</a>
+                    </div>                  
                 </div>
 
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Digitalización de textos, oficios, poderes, autorizaciones, derechos de petición, trámites virtuales, compraventas, testamentos.
-                    </div>                    
+                    </div>  
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Digitalización%20de%20textos,%20oficios,%20poderes,%20autorizaciones,%20derechos%20de%20petición,%20trámites%20virtuales,%20compraventas,%20testamentos.`}>
+                        Solicitar Información</a>
+                    </div>                  
                 </div>
+
             </div>
 
             <div className='serviciogeneral'>
@@ -74,25 +95,45 @@ const Servicios = () => {
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Impresión tanto láser como de inyección de tinta.
-                    </div>                    
+                    </div> 
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Impresión%20tanto%20láser%20como%20de%20inyección%20de%20tinta.`}>
+                        Solicitar Información</a>
+                    </div>                   
                 </div>
 
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Búsqueda de trabajo y envío de Hoja de Vida.
-                    </div>                    
+                    </div> 
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Búsqueda%20de%20trabajo%20y%20envío%20de%20Hoja%20de%20Vida.`}>
+                        Solicitar Información</a>
+                    </div>                   
                 </div>
 
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Respaldo de archivos en CD, rotulación en CDs.
-                    </div>                    
+                    </div>   
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Respaldo%20de%20archivos%20en%20CD,%20rotulación%20en%20CDs.`}>
+                        Solicitar Información</a>
+                    </div>                 
                 </div>
 
                 <div className='servicio1'>
                     <div className="texto-servicio">
                     Uso y capacitación técnica de las aplicaciones más comunes del mercado.
-                    </div>                    
+                    </div>   
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Uso%20y%20capacitación%20técnica%20de%20las%20aplicaciones%20más%20comunes%20del%20mercado.`}>
+                        Solicitar Información</a>
+                    </div>                 
                 </div>
             </div>
 
@@ -101,25 +142,45 @@ const Servicios = () => {
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Expedición de certificados de libertad y tradición.
-                    </div>                    
+                    </div>  
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Expedición%20de%20certificados%20de%20libertad%20y%20tradición.`}>
+                        Solicitar Información</a>
+                    </div>                  
                 </div>
 
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Apostille
-                    </div>                    
+                    </div>    
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Apostille.`}>
+                        Solicitar Información</a>
+                    </div>                
                 </div>
 
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Pagos virtuales PSE.
-                    </div>                    
+                    </div>   
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Pagos%20virtuales%20PSE.`}>
+                        Solicitar Información</a>
+                    </div>                 
                 </div>
 
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Anillados
-                    </div>                    
+                    </div>    
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Anillados.`}>
+                        Solicitar Información</a>
+                    </div>                
                 </div>
             </div>
 
@@ -128,25 +189,45 @@ const Servicios = () => {
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Laminación
-                    </div>                    
+                    </div>   
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Laminación.`}>
+                        Solicitar Información</a>
+                    </div>                 
                 </div>
 
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Soporte técnico para computadores.
-                    </div>                    
+                    </div> 
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Soporte%20técnico%20para%20computadores.`}>
+                        Solicitar Información</a>
+                    </div>                   
                 </div>
 
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Instalación de redes e impresoras.
-                    </div>                    
+                    </div> 
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20servicio%20de:%20Instalación%20de%20redes%20e%20impresoras.`}>
+                        Solicitar Información</a>
+                    </div>                   
                 </div>
 
                 <div className='servicio1'>
                     <div className="texto-servicio">
                         Todo esto apoyado por la venta de refrescos y artículos de papelería.
-                    </div>                    
+                    </div>  
+                    <div className="boton">
+                        <a className='boton1' target="_blank" rel="noopener noreferrer" 
+                        href={`https://wa.me/573124191663?text=Buen%20día,%20solicito%20un%20domicilio%20de:%20Refrescos%20y%20artículos%20de%20papelería.`}>
+                        Solicitar Información</a>
+                    </div>                  
                 </div>
             </div>
 
