@@ -273,15 +273,16 @@ const Servicios = () => {
                     </div>
                             
                     <div className='pie'>
-                        <h3>Desarrollador: Jhon Tierradentro<br/>
-                            <a className='contacto' target="_blank" rel="noopener noreferrer" href="https://wa.me/+573205119854">
+                        {/*<h3>Desarrollador: Jhon Tierradentro<br/>*/}
+                            {/*<a className='contacto' target="_blank" rel="noopener noreferrer" href="https://wa.me/+573205119854">
                                 <FontAwesomeIcon icon={faWhatsapp} />  +57 320 511 9854
-                            </a><br/>
+                            </a><br/>*/}
 
                             {/*<a className='correo' target="_blank" rel="noopener noreferrer" href="mailto:jhonhtr@gmail.com">jhonhtr@gmail.com </a><br/>*/}
-                            <a className='correo' target="_blank" rel="noopener noreferrer" href="mailto:jhonhtr@gmail.com">
-                                <FontAwesomeIcon icon={faEnvelope} /> jhonhtr@gmail.com
-                            </a><br/>
+                            {/*<a className='correo' target="_blank" rel="noopener noreferrer" href="mailto:jhonhtr@gmail.com">*/}
+                                {/*<FontAwesomeIcon icon={faEnvelope} /> jhonhtr@gmail.com
+                            </a><br/></h3> */}
+                        <h3>
                             Derechos Reservados- Copyright 2024
                         </h3>
                     </div>                    
