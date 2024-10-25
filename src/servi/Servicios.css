@@ -34,3 +34,33 @@
   color: blue;
   margin: auto auto;
 }
+
+.boton{
+    display: flex;/* Activa Flexbox */  
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-bottom: 5px;    
+    margin-right: auto;
+    width: 160px; /*ancho del div*/
+    height: 40px; /*altura del div*/
+    background-color: greenyellow; /*color de fondo del div*/
+    text-align: center;  
+    opacity: 0.90;
+    border-radius: 20px; /*curda de las esquinas del div*/    
+}
+
+.boton:hover{
+  background: orange;
+}
+
+.boton1{/*para colocar el texto en el centro del div*/
+  text-decoration: none; /*le quito esa rayita de link al texto*/
+  margin: 0; /* Elimina márgenes si es necesario */
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  margin-top: auto;  
+}
