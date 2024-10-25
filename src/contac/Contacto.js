@@ -153,7 +153,8 @@ const Contacto = () => {
                             {/*<a className='correo' target="_blank" rel="noopener noreferrer" href="mailto:jhonhtr@gmail.com">jhonhtr@gmail.com </a><br/>*/}
                             {/*<a className='correo' target="_blank" rel="noopener noreferrer" href="mailto:jhonhtr@gmail.com">*/}
                                 {/*<FontAwesomeIcon icon={faEnvelope} /> jhonhtr@gmail.com
-                            </a><br/>*/}
+                            </a><br/></h3> */}
+                        <h3>
                             Derechos Reservados- Copyright 2024
                         </h3>
                     </div>                    
