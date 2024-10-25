@@ -9,7 +9,8 @@
 }
 
 nav{
-  background: #fff;
+  background: gray;
+  /*background: #fff;*/
   height: 80px;/*es la altura del contenedor*/
   width: 100%;
   /*position:sticky;*/ /* Mantiene el menú en la parte superior al hacer scroll */
@@ -19,7 +20,12 @@ nav{
 
 .menu{
   z-index:5000;
-}  
+} 
+
+.menu li:hover{
+  background: orange;
+  height: 75px;
+}
 
 .enlace{
   position: absolute;
