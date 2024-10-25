@@ -158,8 +158,8 @@ h1{/*para darle efecto al titulo de información*/
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
-  margin: 10px auto;
-  margin-bottom: 50px;  
+  margin: 5px auto;
+  margin-bottom: 5px;  
 }
 
 .inicio3{
