@@ -139,42 +139,42 @@ const Inicio = () => {
                 <div className='inicio3'>
                     <div className="texto-inicio">
                     <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                    href="https://google.com"><img src={uno} alt="uno" width={120} height={60}/></a>
+                    href="https://google.com"><img src={uno} alt="uno" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://facebook.com"><img src={dos} alt="dos" width={120} height={60}/></a>
+                        href="https://facebook.com"><img src={dos} alt="dos" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://youtube.com"><img src={tres} alt="tres" width={120} height={60}/></a>
+                        href="https://youtube.com"><img src={tres} alt="tres" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://web.whatsapp.com/"><img src={cuatro} alt="cuatro" width={120} height={60}/></a>
+                        href="https://web.whatsapp.com/"><img src={cuatro} alt="cuatro" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
 		        <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://gmail.com/"><img src={cinco} alt="cinco" width={120} height={60}/></a>
+                        href="https://gmail.com/"><img src={cinco} alt="cinco" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
 		        <div className='inicio3'>
                     <div className="texto-inicio">
                     <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://www.hotmail.com/"><img src={seis} alt="seis" width={120} height={60}/></a>
+                        href="https://www.hotmail.com/"><img src={seis} alt="seis" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
@@ -185,42 +185,42 @@ const Inicio = () => {
                 <div className='inicio3'>
                     <div className="texto-inicio">
                     <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                    href="https://www.funcionpublica.gov.co/"><img src={siete} alt="siete" width={120} height={60}/></a>
+                    href="https://www.funcionpublica.gov.co/"><img src={siete} alt="siete" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://sistemamaestro.mineducacion.gov.co/"><img src={ocho} alt="ocho" width={120} height={60}/></a>
+                        href="https://sistemamaestro.mineducacion.gov.co/"><img src={ocho} alt="ocho" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://simo.cnsc.gov.co/"><img src={nueve} alt="nueve" width={120} height={60}/></a>
+                        href="https://simo.cnsc.gov.co/"><img src={nueve} alt="nueve" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://community.secop.gov.co/"><img src={diez} alt="diez" width={120} height={60}/></a>
+                        href="https://community.secop.gov.co/"><img src={diez} alt="diez" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
 		        <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://www.dian.gov.co/"><img src={once} alt="once" width={120} height={60}/></a>
+                        href="https://www.dian.gov.co/"><img src={once} alt="once" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
 		        <div className='inicio3'>
                     <div className="texto-inicio">
                     <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://www.dian.gov.co/"><img src={doce} alt="doce" width={120} height={60}/></a>
+                        href="https://www.dian.gov.co/"><img src={doce} alt="doce" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
@@ -231,42 +231,42 @@ const Inicio = () => {
                 <div className='inicio3'>
                     <div className="texto-inicio">
                     <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                    href="https://www.procuraduria.gov.co/"><img src={trece} alt="trece" width={120} height={60}/></a>
+                    href="https://www.procuraduria.gov.co/"><img src={trece} alt="trece" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://www.contraloria.gov.co/"><img src={catorce} alt="catorce" width={120} height={60}/></a>
+                        href="https://www.contraloria.gov.co/"><img src={catorce} alt="catorce" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://antecedentes.policia.gov.co:7005/"><img src={quince} alt="quince" width={120} height={60}/></a>
+                        href="https://antecedentes.policia.gov.co:7005/"><img src={quince} alt="quince" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://srvcnpc.policia.gov.co/"><img src={dieciseis} alt="dieciseis" width={120} height={60}/></a>
+                        href="https://srvcnpc.policia.gov.co/"><img src={dieciseis} alt="dieciseis" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
 		        <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://inhabilidades.policia.gov.co:8080/"><img src={diecisiete} alt="diecisiete" width={120} height={60}/></a>
+                        href="https://inhabilidades.policia.gov.co:8080/"><img src={diecisiete} alt="diecisiete" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
 		        <div className='inicio3'>
                     <div className="texto-inicio">
                     <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://adenunciar.policia.gov.co/"><img src={dieciocho} alt="dieciocho" width={120} height={60}/></a>
+                        href="https://adenunciar.policia.gov.co/"><img src={dieciocho} alt="dieciocho" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
@@ -277,42 +277,42 @@ const Inicio = () => {
                 <div className='inicio3'>
                     <div className="texto-inicio">
                     <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                    href="https://www.runt.gov.co/"><img src={diecinueve} alt="diecinueve" width={120} height={60}/></a>
+                    href="https://www.runt.gov.co/"><img src={diecinueve} alt="diecinueve" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://edeskprisma.syc.com.co/CAQUETA"><img src={veinte} alt="veinte" width={120} height={60}/></a>
+                        href="https://edeskprisma.syc.com.co/CAQUETA"><img src={veinte} alt="veinte" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://www.huila.gov.co/"><img src={veintiuno} alt="veintiuno" width={120} height={60}/></a>
+                        href="https://www.huila.gov.co/"><img src={veintiuno} alt="veintiuno" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://nuevaoficinavirtual.shd.gov.co/bogota/es/descargaFacturaVA"><img src={veintidos} alt="veintidos" width={120} height={60}/></a>
+                        href="https://nuevaoficinavirtual.shd.gov.co/bogota/es/descargaFacturaVA"><img src={veintidos} alt="veintidos" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
 		        <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://aplicativosenlinea.net/sivervtolima/redirect/"><img src={veintitres} alt="veintitres" width={120} height={60}/></a>
+                        href="https://aplicativosenlinea.net/sivervtolima/redirect/"><img src={veintitres} alt="veintitres" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
 		        <div className='inicio3'>
                     <div className="texto-inicio">
                     <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://www.fcm.org.co/"><img src={veinticuatro} alt="veinticuatro" width={120} height={60}/></a>
+                        href="https://www.fcm.org.co/"><img src={veinticuatro} alt="veinticuatro" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
@@ -323,42 +323,42 @@ const Inicio = () => {
                 <div className='inicio3'>
                     <div className="texto-inicio">
                     <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                    href="https://reportes.sisben.gov.co/dnp_sisbenconsulta"><img src={veinticinco} alt="veinticinco" width={120} height={60}/></a>
+                    href="https://reportes.sisben.gov.co/dnp_sisbenconsulta"><img src={veinticinco} alt="veinticinco" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://www.adres.gov.co/consulte-su-eps"><img src={veintiseis} alt="veintiseis" width={120} height={60}/></a>
+                        href="https://www.adres.gov.co/consulte-su-eps"><img src={veintiseis} alt="veintiseis" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://oficinavirtual.asmetsalud.com/#/ov/afiliados/consultar-estado-de-afiliacion"><img src={veintisiete} alt="veintisiete" width={120} height={60}/></a>
+                        href="https://oficinavirtual.asmetsalud.com/#/ov/afiliados/consultar-estado-de-afiliacion"><img src={veintisiete} alt="veintisiete" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://www.epssanitas.com/usuarios/web/nuevo-portal-eps/inicio?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&saveLastPath=false&_58_struts_action=%2Flogin%2Flogin#gsc.tab=0"><img src={veintiocho} alt="veintiocho" width={120} height={60}/></a>
+                        href="https://www.epssanitas.com/usuarios/web/nuevo-portal-eps/inicio?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&saveLastPath=false&_58_struts_action=%2Flogin%2Flogin#gsc.tab=0"><img src={veintiocho} alt="veintiocho" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
 		        <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://portal.nuevaeps.com.co/Portal/home.jspx"><img src={veintinueve} alt="veintinueve" width={120} height={60}/></a>
+                        href="https://portal.nuevaeps.com.co/Portal/home.jspx"><img src={veintinueve} alt="veintinueve" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
 		        <div className='inicio3'>
                     <div className="texto-inicio">
                     <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://portal.saludsis.mil.co/"><img src={treinta} alt="treinta" width={120} height={60}/></a>
+                        href="https://portal.saludsis.mil.co/"><img src={treinta} alt="treinta" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
@@ -369,42 +369,42 @@ const Inicio = () => {
                 <div className='inicio3'>
                     <div className="texto-inicio">
                     <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                    href="https://www.porvenir.com.co/web/certificados-y-extractos/certificado-de-afiliacion"><img src={treintaiuno} alt="treintaiuno" width={120} height={60}/></a>
+                    href="https://www.porvenir.com.co/web/certificados-y-extractos/certificado-de-afiliacion"><img src={treintaiuno} alt="treintaiuno" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://sede.colpensiones.gov.co/loader.php?lServicio=Se&lTipo=Process&lFuncion=start&id=2#"><img src={treintaidos} alt="treintaidos" width={120} height={60}/></a>
+                        href="https://sede.colpensiones.gov.co/loader.php?lServicio=Se&lTipo=Process&lFuncion=start&id=2#"><img src={treintaidos} alt="treintaidos" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://www.positivaenlinea.gov.co/nuevo/"><img src={treintaitres} alt="treintaitres" width={120} height={60}/></a>
+                        href="https://www.positivaenlinea.gov.co/nuevo/"><img src={treintaitres} alt="treintaitres" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
                 <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://www.colfondos.com.co/dxp/web/guest/personas/pensiones-obligatorias/certificado-afiliacion"><img src={treintaicuatro} alt="treintaicuatro" width={120} height={60}/></a>
+                        href="https://www.colfondos.com.co/dxp/web/guest/personas/pensiones-obligatorias/certificado-afiliacion"><img src={treintaicuatro} alt="treintaicuatro" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
 		        <div className='inicio3'>
                     <div className="texto-inicio">
                         <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://www.aportesenlinea.com/Autoservicio/Clavepago.aspx"><img src={treintaicinco} alt="treintaicinco" width={120} height={60}/></a>
+                        href="https://www.aportesenlinea.com/Autoservicio/Clavepago.aspx"><img src={treintaicinco} alt="treintaicinco" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
 		        <div className='inicio3'>
                     <div className="texto-inicio">
                     <a className='imagen1' target="_blank" rel="noopener noreferrer" 
-                        href="https://www.proteccion.com/portalafiliados/afiliados/certifacil#/certificados"><img src={treintaiseis} alt="treintaiseis" width={120} height={60}/></a>
+                        href="https://www.proteccion.com/portalafiliados/afiliados/certifacil#/certificados"><img src={treintaiseis} alt="treintaiseis" width={90} height={60}/></a>
                     </div>                    
                 </div>
 
@@ -414,7 +414,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://ruaf.sispro.gov.co/Filtro.aspx">
-                <img src={treintaisiete} alt="treintaisiete" width={120} height={60} />
+                <img src={treintaisiete} alt="treintaisiete" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -422,7 +422,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://chaira.uniamazonia.edu.co/Chaira/Logon.aspx">
-                <img src={treintaiocho} alt="treintaiocho" width={120} height={60} />
+                <img src={treintaiocho} alt="treintaiocho" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -430,7 +430,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.icfes.gov.co/web/guest/resultados-examen-saber-11">
-                <img src={treintainueve} alt="treintainueve" width={120} height={60} />
+                <img src={treintainueve} alt="treintainueve" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -438,7 +438,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://oferta.senasofiaplus.edu.co/sofia-oferta/certificaciones.html">
-                <img src={cuarenta} alt="cuarenta" width={120} height={60} />
+                <img src={cuarenta} alt="cuarenta" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -446,7 +446,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.icetex.gov.co/FrontEstadoCuenta/#/">
-                <img src={cuarentaiuno} alt="cuarentaiuno" width={120} height={60} />
+                <img src={cuarentaiuno} alt="cuarentaiuno" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -454,7 +454,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="http://www.innovacionescyc.net/HOME/?page_id=30">
-                <img src={cuarentaidos} alt="cuarentaidos" width={120} height={60} />
+                <img src={cuarentaidos} alt="cuarentaidos" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -464,7 +464,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://rca.unad.edu.co/moodle/servicios/inicio.php">
-                <img src={cuarentaitres} alt="cuarentaitres" width={120} height={60} />
+                <img src={cuarentaitres} alt="cuarentaitres" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -472,7 +472,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.cancilleria.gov.co/">
-                <img src={cuarentaicuatro} alt="cuarentaicuatro" width={120} height={60} />
+                <img src={cuarentaicuatro} alt="cuarentaicuatro" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -480,7 +480,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://unidadenlinea.unidadvictimas.gov.co/">
-                <img src={cuarentaicinco} alt="cuarenteicinco" width={120} height={60} />
+                <img src={cuarentaicinco} alt="cuarenteicinco" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -488,7 +488,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://pasaportescaqueta.gov.co/citas/crear">
-                <img src={cuarentaiseis} alt="cuarentaiseis" width={120} height={60} />
+                <img src={cuarentaiseis} alt="cuarentaiseis" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -496,7 +496,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://certificados.supernotariado.gov.co/certificado">
-                <img src={cuarentaisiete} alt="cuarentaisiete" width={120} height={60} />
+                <img src={cuarentaisiete} alt="cuarentaisiete" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -504,7 +504,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.migracioncolombia.gov.co/">
-                <img src={cuarentaiocho} alt="cuarentaiocho" width={120} height={60} />
+                <img src={cuarentaiocho} alt="cuarentaiocho" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -514,7 +514,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://agenda.registraduria.gov.co/agenda/">
-                <img src={cuarentainueve} alt="cuarentainueve" width={120} height={60} />
+                <img src={cuarentainueve} alt="cuarentainueve" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -522,7 +522,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://rrhh.gestionsecretariasdeeducacion.gov.co/humanoEL/Ingresar.aspx?Ent=Caqueta">
-                <img src={cincuenta} alt="cincuenta" width={120} height={60} />
+                <img src={cincuenta} alt="cincuenta" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -530,7 +530,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://sac2.gestionsecretariasdeeducacion.gov.co/app_Login/?sec=17">
-                <img src={cincuentaiuno} alt="cincuentaiuno" width={120} height={60} />
+                <img src={cincuentaiuno} alt="cincuentaiuno" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -538,7 +538,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://sac2.gestionsecretariasdeeducacion.gov.co/app_Login/?sec=33">
-                <img src={cincuentaidos} alt="cincuentaidos" width={120} height={60} />
+                <img src={cincuentaidos} alt="cincuentaidos" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -546,7 +546,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.fomag.gov.co/fomagzp/">
-                <img src={cincuentaitres} alt="cincuentaitres" width={120} height={60} />
+                <img src={cincuentaitres} alt="cincuentaitres" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -554,7 +554,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.fopep.gov.co/sistema/login/GestLogin/login_pensionado">
-                <img src={cincuentaicuatro} alt="cincuentaicuatro" width={120} height={60} />
+                <img src={cincuentaicuatro} alt="cincuentaicuatro" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -564,7 +564,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://rrhh.gestionsecretariasdeeducacion.gov.co/humanoEL/Ingresar.aspx?Ent=Florencia">
-                <img src={cincuentaicinco} alt="cincuentaicinco" width={120} height={60} />
+                <img src={cincuentaicinco} alt="cincuentaicinco" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -572,7 +572,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.cremil.gov.co/app/utils/login_form">
-                <img src={cincuentaiseis} alt="cincuentaiseis" width={120} height={60} />
+                <img src={cincuentaiseis} alt="cincuentaiseis" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -580,7 +580,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://sub.colpensionestransaccional.gov.co/LoginDaMLayout.aspx?tagcliente=l">
-                <img src={cincuentaisiete} alt="cincuentaisiete" width={120} height={60} />
+                <img src={cincuentaisiete} alt="cincuentaisiete" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -588,7 +588,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.mindefensa.gov.co/">
-                <img src={cincuentaiocho} alt="cincuentaiocho" width={120} height={60} />
+                <img src={cincuentaiocho} alt="cincuentaiocho" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -596,7 +596,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://tramitesweb.sysman.com.co/apps/FAC/index.jsp?id=b47d8a95dc01a418617311a4a05616fc">
-                <img src={cincuentainueve} alt="cincuentainueve" width={120} height={60} />
+                <img src={cincuentainueve} alt="cincuentainueve" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -604,7 +604,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://facturevenus.com/ica/app_Login/">
-                <img src={sesenta} alt="sesenta" width={120} height={60} />
+                <img src={sesenta} alt="sesenta" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -614,7 +614,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://portalapp.mindefensa.gov.co:8449/siathweb-app/#/inicio">
-                <img src={sesentaiuno} alt="sesentaiuno" width={120} height={60} />
+                <img src={sesentaiuno} alt="sesentaiuno" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -622,7 +622,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="http://181.55.191.249:9098/resultados/#nbb">
-                <img src={sesentaidos} alt="sesentaidos" width={120} height={60} />
+                <img src={sesentaidos} alt="sesentaidos" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -630,7 +630,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="http://laboratorio.corpomedica.co:8080/resultados/CResultados?accion=inicioUsuario">
-                <img src={sesentaitres} alt="sesentaitres" width={120} height={60} />
+                <img src={sesentaitres} alt="sesentaitres" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -638,7 +638,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://resultados.ipsnazher.com/login">
-                <img src={sesentaicuatro} alt="sesentaicuatro" width={120} height={60} />
+                <img src={sesentaicuatro} alt="sesentaicuatro" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -646,7 +646,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://hospitalmalvinas.gov.co/2022/">
-                <img src={sesentaicinco} alt="sesentaicinco" width={120} height={60} />
+                <img src={sesentaicinco} alt="sesentaicinco" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -654,7 +654,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://resultados.sereslab.com.co/">
-                <img src={sesentaiseis} alt="sesentaiseis" width={120} height={60} />
+                <img src={sesentaiseis} alt="sesentaiseis" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -664,7 +664,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://cedimips.com/">
-                <img src={sesentaisiete} alt="sesentaisiete" width={120} height={60} />
+                <img src={sesentaisiete} alt="sesentaisiete" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -672,7 +672,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.medilaser.com.co/#gsc.tab=0">
-                <img src={sesentaiocho} alt="sesentaiocho" width={120} height={60} />
+                <img src={sesentaiocho} alt="sesentaiocho" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -680,7 +680,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://web.sispro.gov.co/THS/Cliente/ConsultasPublicas/ConsultaPublicaDeTHxIdentificacion.aspx">
-                <img src={sesentainueve} alt="sesentainueve" width={120} height={60} />
+                <img src={sesentainueve} alt="sesentainueve" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -688,7 +688,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.electrocaqueta.com.co/">
-                <img src={setenta} alt="setenta" width={120} height={60} />
+                <img src={setenta} alt="setenta" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -696,7 +696,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.servaf.com/">
-                <img src={setentaiuno} alt="setentaiuno" width={120} height={60} />
+                <img src={setentaiuno} alt="setentaiuno" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -704,7 +704,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://facturas.alcanosesp.com/">
-                <img src={setentaidos} alt="setentaidos" width={120} height={60} />
+                <img src={setentaidos} alt="setentaidos" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -714,7 +714,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://hmi.gov.co/">
-                <img src={setentaitres} alt="setentaitres" width={120} height={60} />
+                <img src={setentaitres} alt="setentaitres" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -722,7 +722,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://usuario.midatacredito.com/login?product=midc">
-                <img src={setentaicuatro} alt="setentaicuatro" width={120} height={60} />
+                <img src={setentaicuatro} alt="setentaicuatro" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -730,7 +730,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://inpecweb.humanoenlinea.co/HumanoEL/Ingresar.aspx?Ent=InpecWeb">
-                <img src={setentaicinco} alt="setentaicinco" width={120} height={60} />
+                <img src={setentaicinco} alt="setentaicinco" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -738,7 +738,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.fna.gov.co/">
-                <img src={setentaiseis} alt="setentaiseis" width={120} height={60} />
+                <img src={setentaiseis} alt="setentaiseis" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -746,7 +746,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.oftalmolasersa.com.co/consulta-tus-resultados/">
-                <img src={setentaisiete} alt="setentaisiete" width={120} height={60} />
+                <img src={setentaisiete} alt="setentaisiete" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -754,7 +754,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.cancilleria.gov.co/">
-                <img src={setentaiocho} alt="setentaiocho" width={120} height={60} />
+                <img src={setentaiocho} alt="setentaiocho" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -764,7 +764,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://ruesfront.rues.org.co/">
-                <img src={setentainueve} alt="setentainueve" width={120} height={60} />
+                <img src={setentainueve} alt="setentainueve" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -772,7 +772,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.sanidadfuerzasmilitares.mil.co/direccion-sanidad-ejercito-nacional">
-                <img src={ochenta} alt="ochenta" width={120} height={60} />
+                <img src={ochenta} alt="ochenta" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -780,7 +780,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://rimab.imexhs.com/portal/login">
-                <img src={ochentaiuno} alt="ochentaiuno" width={120} height={60} />
+                <img src={ochentaiuno} alt="ochentaiuno" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -788,7 +788,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://www.soi.com.co/persona">
-                <img src={ochentaidos} alt="ochentaidos" width={120} height={60} />
+                <img src={ochentaidos} alt="ochentaidos" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -796,7 +796,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://agenciapublicadeempleo.sena.edu.co/spe-web/spe/login/">
-                <img src={ochentaitres} alt="ochentaitres" width={120} height={60} />
+                <img src={ochentaitres} alt="ochentaitres" width={90} height={60} />
             </a>
         </div>
     </div>
@@ -804,7 +804,7 @@ const Inicio = () => {
     <div className='inicio3'>
         <div className="texto-inicio">
             <a className='imagen1' target="_blank" rel="noopener noreferrer" href="https://sede.colpensiones.gov.co/login">
-                <img src={ochentaicuatro} alt="ochentaicuatro" width={120} height={60} />
+                <img src={ochentaicuatro} alt="ochentaicuatro" width={90} height={60} />
             </a>
         </div>
     </div>
