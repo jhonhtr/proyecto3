@@ -1,0 +1,18 @@
+.inicio3{
+    display: block;/* Activa Flexbox */  
+    flex-direction: column;
+    flex-wrap: wrap; /*si los elementos no caben en un contenedor, los adicionales se mantendran en fila*/
+    align-items: center;
+    margin: 10px auto;          
+    margin-bottom: 5px;
+    width: 120px; /*ancho del div*/
+    height: 90px; /*altura del div*/
+    background-color: white; /*color de fondo del div*/
+    text-align: center;  
+    opacity: 0.90;
+    border-radius: 20px; /*curva de las esquinas del div*/
+    /*bode del div*/
+    border: 1px solid black;  
+    padding: 10px;
+    position: relative;
+  }
