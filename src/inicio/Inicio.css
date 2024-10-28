@@ -162,15 +162,15 @@ h1{/*para darle efecto al titulo de información*/
   margin-bottom: 5px;  
 }
 
-.inicio3{
+.inicio33{
   display: block;/* Activa Flexbox */  
   flex-direction: column;
   flex-wrap: wrap; /*si los elementos no caben en un contenedor, los adicionales se mantendran en fila*/
   align-items: center;
   margin: 10px auto;          
   margin-bottom: 5px;
-  width: 110px; /*ancho del div*/
-  height: 90px; /*altura del div*/
+  width: 500px; /*ancho del div*/
+  height: 160px; /*altura del div*/
   background-color: white; /*color de fondo del div*/
   text-align: center;  
   opacity: 0.90;
