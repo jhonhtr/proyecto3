@@ -267,7 +267,7 @@ const Servicios = () => {
                             <FontAwesomeIcon icon={faLocation} /> Carrera 12 # 13-82 Centro<br/>
                             Florencia, Caquetá - Colombia <br/>
 
-                            <a className='ubicacion' target="_blank" rel="noopener noreferrer" href="https://www.google.com/maps/place/Mundo+Comunicaciones.net/@4.7338903,-74.0316867,19z/data=!4m14!1m7!3m6!1s0x8e3f8f88156ba53d:0xf6e874ce92545800!2sParque+Altablanca!8m2!3d4.7342508!4d-74.0286737!16s%2Fg%2F1tq8klkx!3m5!1s0x8e3f8562916c0449:0xad997a02e5a7842f!8m2!3d4.733889!4d-74.031043!16s%2Fg%2F1yj2mft6l?hl=es&entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D">
+                            <a className='ubicacion' target="_blank" rel="noopener noreferrer" href="https://www.google.com/maps/place/MUNDO+SOLUCIONES+NET/@1.614265,-75.613419,15z/data=!4m6!3m5!1s0x8e244f12424fc1a9:0xd67469021b7bc8a9!8m2!3d1.6142647!4d-75.6134194!16s%2Fg%2F11s99h9xzs?hl=es-ES&entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D">
                                 <FontAwesomeIcon icon={faLocation} />  Ubicación
                             </a></h3>
                     </div>
