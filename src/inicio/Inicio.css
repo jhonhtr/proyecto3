@@ -25,6 +25,7 @@ nav{
 .menu li:hover{
   background: orange;
   height: 75px;
+  border-radius: 10px;
 }
 
 .enlace{
