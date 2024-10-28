@@ -157,7 +157,7 @@ const Contacto = () => {
                             </a><br/></h3> */}
                         <h3>
                             Derechos Reservados- Copyright 2024.<br/>
-                            <Link className='tramites' to="/tramites">©</Link>
+                            <Link className='tramites' target="_blank" rel="noopener noreferrer" to="/tramites">©</Link>
                         </h3>
                     </div>                    
                 </div>
