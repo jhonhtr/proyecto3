@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Inicio from './inicio/Inicio';
 import Servicios from './servi/Servicios';
 import Contacto from './contac/Contacto';
+import Tramites from './public/tramites';
 
 function App () {
   return (
@@ -11,7 +12,8 @@ function App () {
         {/* Cambiamos la ruta a "/inicio" y corregimos el uso del componente Inicio */}
         < Route path="/" element={<Inicio />} />
         <Route path="Servicios" element={<Servicios />} />
-        <Route path="Contacto" element={<Contacto />} />        
+        <Route path="Contacto" element={<Contacto />} />
+        <Route path="/tramites" element={<Tramites/>} />
       </Routes>
     </Router> 
   );
