@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Inicio from './inicio/Inicio';
 import Servicios from './servi/Servicios';
 import Contacto from './contac/Contacto';
-import Tramites from './public/tramites';
+import Tramites from './publi/tramites';
 
 function App () {
   return (
