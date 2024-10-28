@@ -283,7 +283,8 @@ const Servicios = () => {
                                 {/*<FontAwesomeIcon icon={faEnvelope} /> jhonhtr@gmail.com
                             </a><br/></h3> */}
                         <h3>
-                            Derechos Reservados- Copyright 2024
+                            Derechos Reservados- Copyright 2024<br/>
+                            ©
                         </h3>
                     </div>                    
                 </div>
